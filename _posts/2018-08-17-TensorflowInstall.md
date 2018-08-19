@@ -10,41 +10,41 @@ tag: [Tech,tensorflow]
 
 ----------
 
-1、python安装
+**一、python安装**
 
 首先需要说明的是，在win下安装Python，我建议使用anaconda。anaconda集成了很多必须的库，还可以建立环境使得不同项目分隔开。
 
- - anaconda下载安装
+1、anaconda下载安装
 下载地址：https://www.anaconda.com/download/
 安装时注意将添加到路径和作为默认Python勾选上
 
- - 一些常用的conda命令
+2、常用的一些conda命令
 
-查看conda版本
+1）查看conda版本
 
     conda --version
     
-创建环境
+2）创建环境
 
     conda create --name python35 python=3.5
-    
-查看当前所处环境
+
+3）查看当前所处环境
 
     conda info --envs
 
-激活某个环境
+4）激活某个环境
 
     activate python35
     
-返回默认环境（base）
+5）返回默认环境（base）
 
     deactivate
-    
-删除已有环境
+
+6）删除已有环境
 
     conda remove --name python35 --all
 
-2、TensorFlow安装
+**二、TensorFlow安装**
 
 1)创建名为tensorflow的环境
 
