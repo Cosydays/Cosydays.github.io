@@ -1,7 +1,4 @@
 
-#### 预览
-
-* Jekyll版本：Cosydays.github.io
 
 
 ### 使用Jekyll版本作为博客模板，仅需如下几步：
@@ -12,29 +9,6 @@
 4. 修改CNAME文件，以绑定自己的域名。 
 5. 删除_posts下文章，换成你自己的。 
 6. 去谷歌自定义搜索新建一个你的搜索引擎，把你的Id替换根目录下search.html我的ID
-7. 最后，push到你自己的博客Repo~ 
+7. 最后，push到你自己的博客
 
- *^_^*如果愿意，Star本项目一个吧~ 
-
-### 本项目使用了
-
-1. CNZZ的网站统计服务，官网：http://cnzz.com 
-2. 多说的评论功能，官网:http://duoshuo.com/
-
-### 联系方式
-
-联系方式： Email(jiahui_cai@yahoo.com) 
-
-
-### 使用本项目作模板的博客链接
-
-* http://www.94geek.com  
-* http://www.haidaoxiaofei.me  
-* http://www.malphi.net  
-* http://happyaround.com  
-* http://tencentlocation.github.io  
-* http://wtaps.github.io 
-* http://maoshu.cc
-* http://x-carto.com/
-* (你的位置)  
 
